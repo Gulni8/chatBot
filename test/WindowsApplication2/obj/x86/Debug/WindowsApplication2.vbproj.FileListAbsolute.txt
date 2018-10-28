@@ -1,0 +1,12 @@
+c:\users\gulni\documents\visual studio 2010\Projects\test\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+c:\users\gulni\documents\visual studio 2010\Projects\test\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+c:\users\gulni\documents\visual studio 2010\Projects\test\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+c:\users\gulni\documents\visual studio 2010\Projects\test\WindowsApplication2\bin\Debug\AIMLbot.dll
+c:\users\gulni\documents\visual studio 2010\Projects\test\WindowsApplication2\bin\Debug\AIMLbot.pdb
+c:\users\gulni\documents\visual studio 2010\Projects\test\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbprojResolveAssemblyReference.cache
+c:\users\gulni\documents\visual studio 2010\Projects\test\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form1.resources
+c:\users\gulni\documents\visual studio 2010\Projects\test\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+c:\users\gulni\documents\visual studio 2010\Projects\test\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+c:\users\gulni\documents\visual studio 2010\Projects\test\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+c:\users\gulni\documents\visual studio 2010\Projects\test\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+c:\users\gulni\documents\visual studio 2010\Projects\test\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
